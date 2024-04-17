@@ -27,3 +27,5 @@ This project is licensed under the MIT License License - see the [LICENSE](LICEN
 [![GitHub stars](https://img.shields.io/github/stars/Automated-Scripts)](https://github.com/Automated-Scripts/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Automated-Scripts)](https://github.com/Automated-Scripts/network/members) [![GitHub issues](https://img.shields.io/github/issues/Automated-Scripts)](https://github.com/Automated-Scripts/issues) [![GitHub license](https://img.shields.io/github/license/Automated-Scripts)](https://github.com/Automated-Scripts/blob/master/LICENSE)
 ## GitHub Repository
 [Link to GitHub repository](https://github.com/190905186/Automation-scripts)
+## Medium Story Link
+[Link to Medium story](https://medium.com/pythoneers/10-mindblowing-automation-scripts-you-need-to-try-using-python-8bd935f88125)
